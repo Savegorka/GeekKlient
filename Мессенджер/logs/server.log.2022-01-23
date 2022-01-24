@@ -1,0 +1,4 @@
+2022-01-23 13:45:29,602 CRITICAL config_server_log.py Test critical event
+2022-01-23 13:45:29,605 ERROR config_server_log.py Test error ivent
+2022-01-23 13:45:29,605 DEBUG config_server_log.py Test debug ivent
+2022-01-23 13:45:29,605 INFO config_server_log.py Test info ivent
